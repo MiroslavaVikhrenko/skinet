@@ -1,0 +1,26 @@
+[
+  {
+    "ShortName": "MagicCarpet",
+    "Description": "Fly your order with genie-level speed!",
+    "DeliveryTime": "1-2 Days",
+    "Price": 10
+  },
+  {
+    "ShortName": "ArielExpress",
+    "Description": "Swift tides bring treasures quickly",
+    "DeliveryTime": "2-5 Days",
+    "Price": 5
+  },
+  {
+    "ShortName": "SnailMailForest",
+    "Description": "Forest creatures deliver at their own pace",
+    "DeliveryTime": "5-10 Days",
+    "Price": 2
+  },
+  {
+    "ShortName": "FairyWings",
+    "Description": "Free delivery sprinkled with pixie dust",
+    "DeliveryTime": "1-2 Weeks",
+    "Price": 0
+  }
+]
