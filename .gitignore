@@ -483,3 +483,12 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 API/appsettings.json
+
+# Ignore all image files
+*.png
+*.jpg
+*.jpeg
+
+# (Optional) Ignore whole folder if needed
+client/public/images/
+client/public/images/products/
