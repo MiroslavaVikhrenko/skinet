@@ -5,7 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers;
 
-[ApiController]
+[ApiController] // can automatically add validation errors into model state dictionary
+// if fails validation => returns appropriate response
 [Route("api/[controller]")]
 public class BaseApiController : ControllerBase
 {
