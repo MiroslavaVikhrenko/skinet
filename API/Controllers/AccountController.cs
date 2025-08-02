@@ -64,7 +64,7 @@ public class AccountController(SignInManager<AppUser> signInManager) : BaseApiCo
         });
     }
 
-    [HttpGet] // not async as not using anything from db
+    [HttpGet("auth-status")] // not async as not using anything from db
     public ActionResult GetAuthState()
     {
         return Ok(new { IsAuthenticated = User.Identity?.IsAuthenticated ?? false });
