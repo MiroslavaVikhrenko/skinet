@@ -781,5 +781,185 @@
     "Type": "Gloves",
     "Brand": "Mount Olympus Outfitters",
     "QuantityInStock": 22
+  },
+  {
+    "Name": "Slaanesh Boots",
+    "Description": "Stride with chaos\u2014Slaanesh boots blend elegance with wild winter fury.",
+    "Price": 106.65,
+    "PictureUrl": "/images/products/slaanesh_boots.png",
+    "Type": "Boots",
+    "Brand": "Slaanesh Seductions",
+    "QuantityInStock": 59
+  },
+  {
+    "Name": "Slaanesh Gloves",
+    "Description": "Embrace the chill with gloves imbued with Slaanesh's unholy charm.",
+    "Price": 253.09,
+    "PictureUrl": "/images/products/slaanesh_gloves.png",
+    "Type": "Gloves",
+    "Brand": "Slaanesh Seductions",
+    "QuantityInStock": 72
+  },
+  {
+    "Name": "Slaanesh Hat",
+    "Description": "Top your look with a hat that channels Slaanesh's wintry power.",
+    "Price": 76.51,
+    "PictureUrl": "/images/products/slaanesh_hat.png",
+    "Type": "Hats",
+    "Brand": "Slaanesh Seductions",
+    "QuantityInStock": 50
+  },
+  {
+    "Name": "Slaanesh Board",
+    "Description": "Rule the slopes with a board forged in Slaanesh's domain.",
+    "Price": 51.19,
+    "PictureUrl": "/images/products/slaanesh_board.png",
+    "Type": "Boards",
+    "Brand": "Slaanesh Seductions",
+    "QuantityInStock": 76
+  },
+  {
+    "Name": "Khorne Boots",
+    "Description": "Stride with chaos\u2014Khorne boots blend elegance with wild winter fury.",
+    "Price": 89.91,
+    "PictureUrl": "/images/products/khorne_boots.png",
+    "Type": "Boots",
+    "Brand": "Khorne Forge",
+    "QuantityInStock": 23
+  },
+  {
+    "Name": "Khorne Gloves",
+    "Description": "Embrace the chill with gloves imbued with Khorne's unholy charm.",
+    "Price": 261.91,
+    "PictureUrl": "/images/products/khorne_gloves.png",
+    "Type": "Gloves",
+    "Brand": "Khorne Forge",
+    "QuantityInStock": 24
+  },
+  {
+    "Name": "Khorne Hat",
+    "Description": "Top your look with a hat that channels Khorne's wintry power.",
+    "Price": 66.77,
+    "PictureUrl": "/images/products/khorne_hat.png",
+    "Type": "Hats",
+    "Brand": "Khorne Forge",
+    "QuantityInStock": 100
+  },
+  {
+    "Name": "Khorne Board",
+    "Description": "Rule the slopes with a board forged in Khorne's domain.",
+    "Price": 70.04,
+    "PictureUrl": "/images/products/khorne_board.png",
+    "Type": "Boards",
+    "Brand": "Khorne Forge",
+    "QuantityInStock": 56
+  },
+  {
+    "Name": "Nurglings Boots",
+    "Description": "Stride with chaos\u2014Nurglings boots blend elegance with wild winter fury.",
+    "Price": 260.07,
+    "PictureUrl": "/images/products/nurglings_boots.png",
+    "Type": "Boots",
+    "Brand": "Nurglings & Co.",
+    "QuantityInStock": 37
+  },
+  {
+    "Name": "Nurglings Gloves",
+    "Description": "Embrace the chill with gloves imbued with Nurglings's unholy charm.",
+    "Price": 183.65,
+    "PictureUrl": "/images/products/nurglings_gloves.png",
+    "Type": "Gloves",
+    "Brand": "Nurglings & Co.",
+    "QuantityInStock": 26
+  },
+  {
+    "Name": "Nurglings Hat",
+    "Description": "Top your look with a hat that channels Nurglings's wintry power.",
+    "Price": 226.04,
+    "PictureUrl": "/images/products/nurglings_hat.png",
+    "Type": "Hats",
+    "Brand": "Nurglings & Co.",
+    "QuantityInStock": 57
+  },
+  {
+    "Name": "Nurglings Board",
+    "Description": "Rule the slopes with a board forged in Nurglings's domain.",
+    "Price": 283.68,
+    "PictureUrl": "/images/products/nurglings_board.png",
+    "Type": "Boards",
+    "Brand": "Nurglings & Co.",
+    "QuantityInStock": 36
+  },
+  {
+    "Name": "Necrons Boots",
+    "Description": "Stride with chaos\u2014Necrons boots blend elegance with wild winter fury.",
+    "Price": 238.74,
+    "PictureUrl": "/images/products/necrons_boots.png",
+    "Type": "Boots",
+    "Brand": "Dynasty of Necrons",
+    "QuantityInStock": 61
+  },
+  {
+    "Name": "Necrons Gloves",
+    "Description": "Embrace the chill with gloves imbued with Necrons's unholy charm.",
+    "Price": 146.86,
+    "PictureUrl": "/images/products/necrons_gloves.png",
+    "Type": "Gloves",
+    "Brand": "Dynasty of Necrons",
+    "QuantityInStock": 96
+  },
+  {
+    "Name": "Necrons Hat",
+    "Description": "Top your look with a hat that channels Necrons's wintry power.",
+    "Price": 220.03,
+    "PictureUrl": "/images/products/necrons_hat.png",
+    "Type": "Hats",
+    "Brand": "Dynasty of Necrons",
+    "QuantityInStock": 95
+  },
+  {
+    "Name": "Necrons Board",
+    "Description": "Rule the slopes with a board forged in Necrons's domain.",
+    "Price": 216.06,
+    "PictureUrl": "/images/products/necrons_board.png",
+    "Type": "Boards",
+    "Brand": "Dynasty of Necrons",
+    "QuantityInStock": 18
+  },
+  {
+    "Name": "Tyranids Boots",
+    "Description": "Stride with chaos\u2014Tyranids boots blend elegance with wild winter fury.",
+    "Price": 272.07,
+    "PictureUrl": "/images/products/tyranids_boots.png",
+    "Type": "Boots",
+    "Brand": "Hive Tyranids Gear",
+    "QuantityInStock": 56
+  },
+  {
+    "Name": "Tyranids Gloves",
+    "Description": "Embrace the chill with gloves imbued with Tyranids's unholy charm.",
+    "Price": 189.84,
+    "PictureUrl": "/images/products/tyranids_gloves.png",
+    "Type": "Gloves",
+    "Brand": "Hive Tyranids Gear",
+    "QuantityInStock": 70
+  },
+  {
+    "Name": "Tyranids Hat",
+    "Description": "Top your look with a hat that channels Tyranids's wintry power.",
+    "Price": 208.8,
+    "PictureUrl": "/images/products/tyranids_hat.png",
+    "Type": "Hats",
+    "Brand": "Hive Tyranids Gear",
+    "QuantityInStock": 41
+  },
+  {
+    "Name": "Tyranids Board",
+    "Description": "Rule the slopes with a board forged in Tyranids's domain.",
+    "Price": 143.66,
+    "PictureUrl": "/images/products/tyranids_board.png",
+    "Type": "Boards",
+    "Brand": "Hive Tyranids Gear",
+    "QuantityInStock": 77
   }
 ]

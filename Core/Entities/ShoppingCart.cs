@@ -8,4 +8,8 @@ public class ShoppingCart
 {
     public required string Id { get; set; }
     public List<CartItem> Items { get; set; } = [];
+    public int? DeliveryMethodId { get; set; }
+    public string? ClientSecret { get; set; } // get this back when we craete a payment intent 
+    // needed when user wants to make payment => then use client secret to do that from client browser to stripe
+    public string? PaymentIntentId { get; set; } // can be changed if user changes cart content or delivery method
 }
