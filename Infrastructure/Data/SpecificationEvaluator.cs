@@ -1,10 +1,12 @@
 using Core.Entities;
 using Core.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Data;
 
 public class SpecificationEvaluator<T> where T : BaseEntity
 {
+    // possibly with includes for eager loading
     public static IQueryable<T> GetQuery(IQueryable<T> query, ISpecification<T> spec)
     {
         if (spec.Criteria != null)
@@ -32,10 +34,16 @@ public class SpecificationEvaluator<T> where T : BaseEntity
             query = query.Skip(spec.Skip).Take(spec.Take);
         }
 
+        // eager loading (includes) aggregate for more than 1
+        query = spec.Includes.Aggregate(query, (current, include) => current.Include(include));
+
+        // for ThenInclude
+        query = spec.IncludeStrings.Aggregate(query, (current, include) => current.Include(include));
+
         return query;
     }
 
-// using projection
+// using projection (here not using includes)
     public static IQueryable<TResult> GetQuery<TSpec, TResult>(IQueryable<T> query, ISpecification<T, TResult> spec)
     {
         if (spec.Criteria != null)
