@@ -16,6 +16,8 @@ import { CheckoutReviewComponent } from "./checkout-review/checkout-review.compo
 import { CartService } from '../../core/services/cart.service';
 import { CurrencyPipe } from '@angular/common';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
+import { OrderToCreate, ShippingAddress } from '../../shared/models/order';
+import { OrderService } from '../../core/services/order.service';
 
 @Component({
   selector: 'app-checkout',
@@ -38,6 +40,7 @@ export class CheckoutComponent implements OnInit, OnDestroy {
   private snackbar = inject(SnackbarService);
   private router = inject(Router);
   private accountService = inject(AccountService);
+  private orderService = inject(OrderService);
   cartService = inject(CartService);
   addressElement?: StripeAddressElement;
   paymentElement?: StripePaymentElement;
@@ -103,7 +106,7 @@ export class CheckoutComponent implements OnInit, OnDestroy {
     // starts from 0 => moved on from address to delivery methods
     if (event.selectedIndex === 1) {
       if (this.saveAddress) {
-        const address = await this.getAddressFromStripeAddress();
+        const address = await this.getAddressFromStripeAddress() as Address;
         address && firstValueFrom(this.accountService.updateAddress(address));
       }
     }
@@ -124,13 +127,27 @@ export class CheckoutComponent implements OnInit, OnDestroy {
     try {
       if (this.confirmationToken) {
         const result = await this.stripeService.confirmPayment(this.confirmationToken);
-        if (result.error) {
-          throw new Error(result.error.message);
-        } else {
+
+        // to ensure payment status succeeded (accepted by Stripe) => if yes, create order
+        if (result.paymentIntent?.status === 'succeeded') {
+          const order = await this.createOrderModel();
+          const orderResult = await firstValueFrom(this.orderService.createOrder(order));
+
+          if (orderResult) {
+          this.orderService.orderComplete = true;
           // remove cart, navigate to payment success page
           this.cartService.deleteCart();
           this.cartService.selectedDelivery.set(null);
           this.router.navigateByUrl('/checkout/success');
+          } else {
+            throw new Error('Order creation failed'); // failed to create order, but payment succeeded !!
+          }
+        } else if (result.error) {
+          // stripe error (card payment failure)
+          throw new Error(result.error.message); 
+        } else {
+          // not stripe error, smth else went wrong
+          throw new Error("Something went wrong");
         }
       }
     } catch (error: any) {
@@ -141,13 +158,37 @@ export class CheckoutComponent implements OnInit, OnDestroy {
     }
   }
 
-  private async getAddressFromStripeAddress() : Promise<Address | null> {
+  private async createOrderModel() : Promise<OrderToCreate> {
+    const cart = this.cartService.cart();
+    const shippingAddress = await this.getAddressFromStripeAddress() as ShippingAddress;
+    const card = this.confirmationToken?.payment_method_preview.card;
+
+    if (!cart?.id || !cart.deliveryMethodId || !card || !shippingAddress) {
+      throw new Error('Problem creating order');
+    }
+
+    return {
+      cartId: cart.id,
+      paymentSummary: {
+        last4: +card.last4, // + symbol for casting in number
+        brand: card.brand,
+        expMonth: card.exp_month,
+        expYear: card.exp_year
+      },
+      deliveryMethodId: cart.deliveryMethodId,
+      shippingAddress
+    }
+
+  }
+
+  private async getAddressFromStripeAddress() : Promise<Address | ShippingAddress | null> {
     // need to format and map props
     const result = await this.addressElement?.getValue();
     const address = result?.value.address; // could be undefined
 
     if (address) {
       return {
+        name: result.value.name, // for type ShippingAddress
         line1: address.line1,
         line2: address.line2 || undefined,
         city: address.city,
