@@ -38,6 +38,7 @@ public class PaymentsController(IPaymentService paymentService,
     }
 
     [HttpPost("webhook")]
+    [AllowAnonymous]
     public async Task<IActionResult> StripeWebhook()
     {
         var json = await new StreamReader(Request.Body).ReadToEndAsync();

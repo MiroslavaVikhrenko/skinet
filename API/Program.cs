@@ -46,9 +46,14 @@ app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().AllowCredentials()
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.UseDefaultFiles();
+app.UseStaticFiles(); // angular app
+
 app.MapControllers();
 app.MapGroup("api").MapIdentityApi<AppUser>(); // api/account/login or api/account/register instead of default /login or /register
 app.MapHub<NotificationHub>("/hub/notifications");
+// if dotnet cannot => pass to angular app for routing
+app.MapFallbackToController("Index", "Fallback");
 
 
 try
