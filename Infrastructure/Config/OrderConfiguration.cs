@@ -16,6 +16,7 @@ public class OrderConfiguration : IEntityTypeConfiguration<Order>
         ); // enum in string
         // configure decimals
         builder.Property(x => x.Subtotal).HasColumnType("decimal(18,2)");
+        builder.Property(x => x.Discount).HasColumnType("decimal(18,2)");
         // configure relationships => 1 order can have many items
         builder.HasMany(x => x.OrderItems).WithOne().OnDelete(DeleteBehavior.Cascade);
         // datetime property configuration to prevent browser issues
