@@ -91,8 +91,9 @@ public class PaymentsController(IPaymentService paymentService,
                         ?? throw new Exception("Order not found");
 
             order.Status = OrderStatus.PaymentReceived;
+            var expectedAmount = (long)Math.Round(order.GetTotal() * 100M);
 
-            if ((long)order.GetTotal() * 100 != intent.Amount)
+            if (expectedAmount != intent.Amount)
             {
                 order.Status = OrderStatus.PaymentMismatch;
             }
