@@ -24,5 +24,29 @@ public class OrderSpecification : BaseSpecification<Order>
         AddInclude("OrderItems");
         AddInclude("DeliveryMethod");
     }
-    
+
+    // ADMIN 
+    public OrderSpecification(OrderSpecParams specParams) : base(x =>
+        string.IsNullOrEmpty(specParams.Status) || x.Status == ParseStatus(specParams.Status)
+    )
+    {
+        AddInclude("OrderItems");
+        AddInclude("DeliveryMethod");
+        ApplyPaging(specParams.PageSize * (specParams.PageIndex - 1), specParams.PageSize);
+        AddOrderByDescending(x => x.OrderDate);
+    }
+    // get order by id for admin
+    public OrderSpecification(int id) : base(x => x.Id == id)
+    {
+        AddInclude("OrderItems");
+        AddInclude("DeliveryMethod");
+    }
+
+    // helper method as Status is enum
+    private static OrderStatus? ParseStatus(string status)
+    {
+        // 2nd param is ignoreCase (true) 
+        if (Enum.TryParse<OrderStatus>(status, true, out var result)) return result;
+        return null; // no filtering will take place
+    }
 }

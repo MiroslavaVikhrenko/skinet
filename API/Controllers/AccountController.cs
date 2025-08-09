@@ -5,7 +5,6 @@ using Core.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers;
 
@@ -48,7 +47,7 @@ public class AccountController(SignInManager<AppUser> signInManager) : BaseApiCo
     }
 
     [HttpGet("user-info")]
-    public async Task<ActionResult> GetUserInfo()
+    public async Task<ActionResult> GetUserInfo() 
     {
         if (User.Identity?.IsAuthenticated == false) return NoContent(); // so that in dev tools no errors were shown to users
 
@@ -60,7 +59,9 @@ public class AccountController(SignInManager<AppUser> signInManager) : BaseApiCo
             user.FirstName,
             user.LastName,
             user.Email,
-            Address = user.Address?.ToDto()
+            Address = user.Address?.ToDto(),
+            // the role contained inside the cookie, which cannot access from client side
+            Roles = User.FindFirstValue(ClaimTypes.Role) // returns roles user belongs to
         });
     }
 
