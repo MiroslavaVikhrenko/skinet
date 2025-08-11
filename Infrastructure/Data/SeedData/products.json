@@ -3,7 +3,7 @@
     "Name": "Ariel's Board",
     "Description": "Hit the slopes with a board that echoes Ariel's timeless tale of magic and mischief.",
     "Price": 200,
-    "PictureUrl": "/images/products/ariel_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867515/ariel_board_vruqyq.png",
     "Type": "Boards",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 82
@@ -12,7 +12,7 @@
     "Name": "Sebastian's Board",
     "Description": "More than a ride, it's a frozen adventure with Sebastian guiding your path.",
     "Price": 150,
-    "PictureUrl": "/images/products/sebastian_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868337/sebastian_board_qnyaob.png",
     "Type": "Boards",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 75
@@ -21,7 +21,7 @@
     "Name": "Aladdin's Board",
     "Description": "More than a ride, it's a frozen adventure with Aladdin guiding your path.",
     "Price": 180,
-    "PictureUrl": "/images/products/aladdin_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867433/aladdin_board_jxmrlj.png",
     "Type": "Boards",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 3
@@ -30,7 +30,7 @@
     "Name": "Lumière's Board",
     "Description": "Hit the slopes with a board that echoes Lumière's timeless tale of magic and mischief.",
     "Price": 300,
-    "PictureUrl": "/images/products/lumiere_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867993/lumiere_board_ghzuzp.png",
     "Type": "Boards",
     "Brand": "Enchanted Castle",
     "QuantityInStock": 52
@@ -39,7 +39,7 @@
     "Name": "Pocahontas's Board",
     "Description": "More than a ride, it's a frozen adventure with Pocahontas guiding your path.",
     "Price": 250,
-    "PictureUrl": "/images/products/pocahontas_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868311/pocahontas_board_pyjpob.png",
     "Type": "Boards",
     "Brand": "Spirit of the Forest",
     "QuantityInStock": 97
@@ -48,7 +48,7 @@
     "Name": "Mushu's Board",
     "Description": "Glide with the mythic energy of Mushu—this board was made for epic journeys.",
     "Price": 120,
-    "PictureUrl": "/images/products/mushu_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868176/mushu_board_l8yv2l.png",
     "Type": "Boards",
     "Brand": "Han Warrior Gear",
     "QuantityInStock": 37
@@ -57,7 +57,7 @@
     "Name": "Cinderella's Hat",
     "Description": "Top off your winter look with a whimsical nod to Cinderella's iconic style.",
     "Price": 10,
-    "PictureUrl": "/images/products/cinderella_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867678/cinderella_hat_oo1s2h.png",
     "Type": "Hats",
     "Brand": "Midnight Magic",
     "QuantityInStock": 32
@@ -66,7 +66,7 @@
     "Name": "Cinderella's Boots",
     "Description": "Add a fairytale touch to your winter outfit with a whimsical Cinderella-inspired flair.",
     "Price": 240,
-    "PictureUrl": "/images/products/cinderella_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867601/cinderella_boots_iwxjua.png",
     "Type": "Boots",
     "Brand": "Midnight Magic",
     "QuantityInStock": 3
@@ -75,7 +75,7 @@
     "Name": "Mulan's Hat",
     "Description": "Top off your winter look with a whimsical nod to Mulan's iconic style.",
     "Price": 8,
-    "PictureUrl": "/images/products/mulan_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868181/mulan_hat_yrpfo0.png",
     "Type": "Hats",
     "Brand": "Han Warrior Gear",
     "QuantityInStock": 6
@@ -84,7 +84,7 @@
     "Name": "Aurora's Hat",
     "Description": "A winter hat that feels like stepping into Aurora's chapter of the fairytale.",
     "Price": 15,
-    "PictureUrl": "/images/products/aurora_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867604/aurora_hat_oqr6jj.png",
     "Type": "Hats",
     "Brand": "Briar Rose Designs",
     "QuantityInStock": 17
@@ -93,7 +93,7 @@
     "Name": "Flounder's Gloves",
     "Description": "Elegance meets storybook mischief—these gloves reflect Flounder's legendary spirit.",
     "Price": 18,
-    "PictureUrl": "/images/products/flounder_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867772/flounder_gloves_ishjvb.png",
     "Type": "Gloves",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 74
@@ -102,7 +102,7 @@
     "Name": "Maleficent's Gloves",
     "Description": "Slip on a touch of fantasy with gloves stitched from the stories of Maleficent.",
     "Price": 15,
-    "PictureUrl": "/images/products/maleficent_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868054/maleficent_gloves_w7rrg9.png",
     "Type": "Gloves",
     "Brand": "Briar Rose Designs",
     "QuantityInStock": 19
@@ -111,7 +111,7 @@
     "Name": "Tarzan's Gloves",
     "Description": "Slip on a touch of fantasy with gloves stitched from the stories of Tarzan.",
     "Price": 16,
-    "PictureUrl": "/images/products/tarzan_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868489/tarzan_gloves_opgmzh.png",
     "Type": "Gloves",
     "Brand": "Jungle Swing",
     "QuantityInStock": 77
@@ -120,7 +120,7 @@
     "Name": "Meeko's Gloves",
     "Description": "Slip on a touch of fantasy with gloves stitched from the stories of Meeko.",
     "Price": 14,
-    "PictureUrl": "/images/products/meeko_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868106/meeko_gloves_vlb97o.png",
     "Type": "Gloves",
     "Brand": "Spirit of the Forest",
     "QuantityInStock": 45
@@ -129,7 +129,7 @@
     "Name": "Li Shang's Boots",
     "Description": "These aren't just boots—they're a tale of boldness and grace straight from Li Shang's world.",
     "Price": 189.99,
-    "PictureUrl": "/images/products/lishang_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867990/lishang_boots_cdhi2v.png",
     "Type": "Boots",
     "Brand": "Han Warrior Gear",
     "QuantityInStock": 28
@@ -138,7 +138,7 @@
     "Name": "Prince Charming's Boots",
     "Description": "Channel Prince Charming's unforgettable charm with winter boots that walk like a legend.",
     "Price": 199.99,
-    "PictureUrl": "/images/products/charming_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867599/charming_boots_dcwnxu.png",
     "Type": "Boots",
     "Brand": "Midnight Magic",
     "QuantityInStock": 69
@@ -147,7 +147,7 @@
     "Name": "Hermes Boots",
     "Description": "These aren't just boots—they're a tale of boldness and grace straight from Hermes Boots's world.",
     "Price": 150,
-    "PictureUrl": "/images/products/hermes_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867814/hermes_boots_xj2yq9.png",
     "Type": "Boots",
     "Brand": "Mount Olympus Outfitters",
     "QuantityInStock": 35
@@ -156,7 +156,7 @@
     "Name": "Genie's Boots",
     "Description": "Channel Genie's unforgettable charm with winter boots that walk like a legend.",
     "Price": 180,
-    "PictureUrl": "/images/products/genie_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867741/genie_boots_rd2z34.png",
     "Type": "Boots",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 27
@@ -165,7 +165,7 @@
     "Name": "Aladdin's Gloves",
     "Description": "Whispering tales of Aladdin's adventures, these gloves warm both hands and heart.",
     "Price": 35.81,
-    "PictureUrl": "/images/products/aladdin_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867474/aladdin_gloves_kx8o8n.png",
     "Type": "Gloves",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 63
@@ -174,7 +174,7 @@
     "Name": "Jasmine's Hat",
     "Description": "A winter hat that feels like stepping into Jasmine's chapter of the fairytale.",
     "Price": 234.74,
-    "PictureUrl": "/images/products/jasmine_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867957/jasmine_hat_deyfn3.png",
     "Type": "Hats",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 47
@@ -183,7 +183,7 @@
     "Name": "Belle's Gloves",
     "Description": "Slip on a touch of fantasy with gloves stitched from the stories of Belle.",
     "Price": 258.71,
-    "PictureUrl": "/images/products/belle_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867591/belle_gloves_elkmsy.png",
     "Type": "Gloves",
     "Brand": "Enchanted Castle",
     "QuantityInStock": 47
@@ -192,7 +192,7 @@
     "Name": "Cri-Kee's Hat",
     "Description": "Top off your winter look with a whimsical nod to Cri-Kee's iconic style.",
     "Price": 28.81,
-    "PictureUrl": "/images/products/crikee_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867673/crikee_hat_z4yaoa.png",
     "Type": "Hats",
     "Brand": "Han Warrior Gear",
     "QuantityInStock": 40
@@ -201,7 +201,7 @@
     "Name": "Esmeralda's Gloves",
     "Description": "Elegance meets storybook mischief—these gloves reflect Esmeralda's legendary spirit.",
     "Price": 47.74,
-    "PictureUrl": "/images/products/esmeralda_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867691/esmeralda_gloves_sojgvy.png",
     "Type": "Gloves",
     "Brand": "Court of Miracles",
     "QuantityInStock": 43
@@ -210,7 +210,7 @@
     "Name": "Esmeralda's Boots",
     "Description": "Strut through the snow like Esmeralda herself—these boots blend storybook magic with real-world warmth.",
     "Price": 68.16,
-    "PictureUrl": "/images/products/esmeralda_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867668/esmeralda_boots_yk8noo.png",
     "Type": "Boots",
     "Brand": "Court of Miracles",
     "QuantityInStock": 29
@@ -219,7 +219,7 @@
     "Name": "Jafar's Gloves",
     "Description": "Elegance meets storybook mischief—these gloves reflect Jafar's legendary spirit.",
     "Price": 105.71,
-    "PictureUrl": "/images/products/jafar_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867870/jafar_gloves_frs9fo.png",
     "Type": "Gloves",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 49
@@ -228,7 +228,7 @@
     "Name": "Jafar's Hat",
     "Description": "Top off your winter look with a whimsical nod to Jafar's iconic style.",
     "Price": 106.12,
-    "PictureUrl": "/images/products/jafar_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867871/jafar_hat_z0v5pf.png",
     "Type": "Hats",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 79
@@ -237,7 +237,7 @@
     "Name": "Jafar's Board",
     "Description": "More than a ride, it's a frozen adventure with Jafar guiding your path.",
     "Price": 270.81,
-    "PictureUrl": "/images/products/jafar_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867872/jafar_board_b4flu6.png",
     "Type": "Boards",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 72
@@ -246,7 +246,7 @@
     "Name": "Iago's Hat",
     "Description": "A winter hat that feels like stepping into Iago's chapter of the fairytale.",
     "Price": 260.37,
-    "PictureUrl": "/images/products/iago_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867856/iago_hat_asohs0.png",
     "Type": "Hats",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 89
@@ -255,7 +255,7 @@
     "Name": "Iago's Board",
     "Description": "Hit the slopes with a board that echoes Iago's timeless tale of magic and mischief.",
     "Price": 237.73,
-    "PictureUrl": "/images/products/iago_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867847/iago_board_r79vpv.png",
     "Type": "Boards",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 18
@@ -264,7 +264,7 @@
     "Name": "Ursula's Gloves",
     "Description": "Slip on a touch of fantasy with gloves stitched from the stories of Ursula.",
     "Price": 219.59,
-    "PictureUrl": "/images/products/ursula_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868521/ursula_gloves_blyb33.png",
     "Type": "Gloves",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 36
@@ -273,7 +273,7 @@
     "Name": "Ursula's Board",
     "Description": "Hit the slopes with a board that echoes Ursula's timeless tale of magic and mischief.",
     "Price": 66.43,
-    "PictureUrl": "/images/products/ursula_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868504/ursula_board_mkky3m.png",
     "Type": "Boards",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 51
@@ -282,7 +282,7 @@
     "Name": "Ursula's Boots",
     "Description": "Strut through the snow like Ursula herself—these boots blend storybook magic with real-world warmth.",
     "Price": 114.98,
-    "PictureUrl": "/images/products/ursula_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868510/ursula_boots_ey2ipr.png",
     "Type": "Boots",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 57
@@ -291,7 +291,7 @@
     "Name": "Hades's Gloves",
     "Description": "Slip on a touch of fantasy with gloves stitched from the stories of Hades.",
     "Price": 228.46,
-    "PictureUrl": "/images/products/hades_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867797/hades_gloves_qwasz8.png",
     "Type": "Gloves",
     "Brand": "Mount Olympus Outfitters",
     "QuantityInStock": 48
@@ -300,7 +300,7 @@
     "Name": "Hades's Hat",
     "Description": "A winter hat that feels like stepping into Hades's chapter of the fairytale.",
     "Price": 184.42,
-    "PictureUrl": "/images/products/hades_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867804/hades_hat_ofjlke.png",
     "Type": "Hats",
     "Brand": "Mount Olympus Outfitters",
     "QuantityInStock": 41
@@ -309,7 +309,7 @@
     "Name": "Snow White's Boots",
     "Description": "These aren't just boots—they're a tale of boldness and grace straight from Snow White's world.",
     "Price": 58.0,
-    "PictureUrl": "/images/products/snowwhite_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868439/snowwhite_boots_mpmvpd.png",
     "Type": "Boots",
     "Brand": "Enchanted Apple Co.",
     "QuantityInStock": 39
@@ -318,7 +318,7 @@
     "Name": "Evil Queen's Hat",
     "Description": "Top off your winter look with a whimsical nod to Evil Queen's iconic style.",
     "Price": 49.99,
-    "PictureUrl": "/images/products/evilqueen_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867731/evilqueen_hat_awo85z.png",
     "Type": "Hats",
     "Brand": "Enchanted Apple Co.",
     "QuantityInStock": 22
@@ -327,7 +327,7 @@
     "Name": "Evil Queen's Gloves",
     "Description": "Elegance meets storybook mischief—these gloves reflect Evil Queen's legendary spirit.",
     "Price": 37.5,
-    "PictureUrl": "/images/products/evilqueen_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867738/evilqueen_gloves_durffz.png",
     "Type": "Gloves",
     "Brand": "Enchanted Apple Co.",
     "QuantityInStock": 30
@@ -336,7 +336,7 @@
     "Name": "Evil Queen's Boots",
     "Description": "Strut through the snow like Evil Queen herself—these boots blend storybook magic with real-world warmth.",
     "Price": 79.95,
-    "PictureUrl": "/images/products/evilqueen_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867717/evilqueen_boots_pqlonc.png",
     "Type": "Boots",
     "Brand": "Enchanted Apple Co.",
     "QuantityInStock": 17
@@ -345,7 +345,7 @@
     "Name": "Evil Queen's Board",
     "Description": "Hit the slopes with a board that echoes Evil Queen's timeless tale of magic and mischief.",
     "Price": 212.0,
-    "PictureUrl": "/images/products/evilqueen_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867729/evilqueen_board_l1x3ki.png",
     "Type": "Boards",
     "Brand": "Enchanted Apple Co.",
     "QuantityInStock": 25
@@ -354,7 +354,7 @@
     "Name": "Ariel's Boots",
     "Description": "These aren't just boots—they're a tale of boldness and grace straight from Ariel's world.",
     "Price": 239.42,
-    "PictureUrl": "/images/products/ariel_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867511/ariel_boots_avq27y.png",
     "Type": "Boots",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 21
@@ -363,7 +363,7 @@
     "Name": "Ariel's Gloves",
     "Description": "Whispering tales of Ariel's adventures, these gloves warm both hands and heart.",
     "Price": 116.05,
-    "PictureUrl": "/images/products/ariel_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867536/ariel_gloves_sys9m4.png",
     "Type": "Gloves",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 57
@@ -372,7 +372,7 @@
     "Name": "Ariel's Hat",
     "Description": "Top off your winter look with a whimsical nod to Ariel's iconic style.",
     "Price": 279.59,
-    "PictureUrl": "/images/products/ariel_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867547/ariel_hat_bkrljc.png",
     "Type": "Hats",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 79
@@ -381,7 +381,7 @@
     "Name": "Sebastian's Boots",
     "Description": "Strut through the snow like Sebastian herself—these boots blend storybook magic with real-world warmth.",
     "Price": 264.3,
-    "PictureUrl": "/images/products/sebastian_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868359/sebastian_boots_qgo4jw.png",
     "Type": "Boots",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 42
@@ -390,7 +390,7 @@
     "Name": "Sebastian's Gloves",
     "Description": "Whispering tales of Sebastian's adventures, these gloves warm both hands and heart.",
     "Price": 242.38,
-    "PictureUrl": "/images/products/sebastian_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868377/sebastian_gloves_efvtv6.png",
     "Type": "Gloves",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 11
@@ -399,7 +399,7 @@
     "Name": "Sebastian's Hat",
     "Description": "Top off your winter look with a whimsical nod to Sebastian's iconic style.",
     "Price": 258.26,
-    "PictureUrl": "/images/products/sebastian_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868385/sebastian_hat_rmy8lf.png",
     "Type": "Hats",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 72
@@ -408,7 +408,7 @@
     "Name": "Aladdin's Boots",
     "Description": "Channel Aladdin's unforgettable charm with winter boots that walk like a legend.",
     "Price": 91.53,
-    "PictureUrl": "/images/products/aladdin_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867451/aladdin_boots_umtn1w.png",
     "Type": "Boots",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 10
@@ -417,7 +417,7 @@
     "Name": "Aladdin's Hat",
     "Description": "A winter hat that feels like stepping into Aladdin's chapter of the fairytale.",
     "Price": 222.66,
-    "PictureUrl": "/images/products/aladdin_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867464/aladdin_hat_oqtcpw.png",
     "Type": "Hats",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 18
@@ -426,7 +426,7 @@
     "Name": "Lumière's Boots",
     "Description": "Channel Lumière's unforgettable charm with winter boots that walk like a legend.",
     "Price": 245.69,
-    "PictureUrl": "/images/products/lumiere_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868016/lumiere_boots_qvpz7b.png",
     "Type": "Boots",
     "Brand": "Enchanted Castle",
     "QuantityInStock": 50
@@ -435,7 +435,7 @@
     "Name": "Lumière's Gloves",
     "Description": "Whispering tales of Lumière's adventures, these gloves warm both hands and heart.",
     "Price": 77.16,
-    "PictureUrl": "/images/products/lumiere_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868034/lumiere_gloves_hzjfnq.png",
     "Type": "Gloves",
     "Brand": "Enchanted Castle",
     "QuantityInStock": 76
@@ -444,7 +444,7 @@
     "Name": "Lumière's Hat",
     "Description": "A winter hat that feels like stepping into Lumière's chapter of the fairytale.",
     "Price": 45.85,
-    "PictureUrl": "/images/products/lumiere_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868031/lumiere_hat_uaeomp.png",
     "Type": "Hats",
     "Brand": "Enchanted Castle",
     "QuantityInStock": 79
@@ -453,7 +453,7 @@
     "Name": "Pocahontas's Boots",
     "Description": "Channel Pocahontas's unforgettable charm with winter boots that walk like a legend.",
     "Price": 238.93,
-    "PictureUrl": "/images/products/pocahontas_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868318/pocahontas_boots_pin4yd.png",
     "Type": "Boots",
     "Brand": "Spirit of the Forest",
     "QuantityInStock": 93
@@ -462,7 +462,7 @@
     "Name": "Pocahontas's Gloves",
     "Description": "Elegance meets storybook mischief—these gloves reflect Pocahontas's legendary spirit.",
     "Price": 188.06,
-    "PictureUrl": "/images/products/pocahontas_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868356/pocahontas_gloves_pg8m28.png",
     "Type": "Gloves",
     "Brand": "Spirit of the Forest",
     "QuantityInStock": 42
@@ -471,7 +471,7 @@
     "Name": "Pocahontas's Hat",
     "Description": "More than just a hat—it’s a crown of winter wonder, inspired by Pocahontas's flair.",
     "Price": 104.08,
-    "PictureUrl": "/images/products/pocahontas_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868358/pocahontas_hat_o60lkm.png",
     "Type": "Hats",
     "Brand": "Spirit of the Forest",
     "QuantityInStock": 21
@@ -480,7 +480,7 @@
     "Name": "Mushu's Boots",
     "Description": "These aren't just boots—they're a tale of boldness and grace straight from Mushu's world.",
     "Price": 247.21,
-    "PictureUrl": "/images/products/mushu_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868182/mushu_boots_jtq9el.png",
     "Type": "Boots",
     "Brand": "Han Warrior Gear",
     "QuantityInStock": 12
@@ -489,7 +489,7 @@
     "Name": "Mushu's Gloves",
     "Description": "Elegance meets storybook mischief—these gloves reflect Mushu's legendary spirit.",
     "Price": 139.11,
-    "PictureUrl": "/images/products/mushu_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868193/mushu_gloves_yokpql.png",
     "Type": "Gloves",
     "Brand": "Han Warrior Gear",
     "QuantityInStock": 34
@@ -498,7 +498,7 @@
     "Name": "Mushu's Hat",
     "Description": "Top off your winter look with a whimsical nod to Mushu's iconic style.",
     "Price": 58.21,
-    "PictureUrl": "/images/products/mushu_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868179/mushu_hat_kq2f5v.png",
     "Type": "Hats",
     "Brand": "Han Warrior Gear",
     "QuantityInStock": 27
@@ -507,7 +507,7 @@
     "Name": "Cinderella's Gloves",
     "Description": "Whispering tales of Cinderella's adventures, these gloves warm both hands and heart.",
     "Price": 141.16,
-    "PictureUrl": "/images/products/cinderella_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867646/cinderella_gloves_tqchrk.png",
     "Type": "Gloves",
     "Brand": "Midnight Magic",
     "QuantityInStock": 98
@@ -516,7 +516,7 @@
     "Name": "Cinderella's Board",
     "Description": "Hit the slopes with a board that echoes Cinderella's timeless tale of magic and mischief.",
     "Price": 104.04,
-    "PictureUrl": "/images/products/cinderella_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867611/cinderella_board_gzxgws.png",
     "Type": "Boards",
     "Brand": "Midnight Magic",
     "QuantityInStock": 18
@@ -525,7 +525,7 @@
     "Name": "Mulan's Boots",
     "Description": "Channel Mulan's unforgettable charm with winter boots that walk like a legend.",
     "Price": 68.12,
-    "PictureUrl": "/images/products/mulan_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754870246/mulan_boots_j0kmm3.png",
     "Type": "Boots",
     "Brand": "Han Warrior Gear",
     "QuantityInStock": 73
@@ -534,7 +534,7 @@
     "Name": "Mulan's Gloves",
     "Description": "Whispering tales of Mulan's adventures, these gloves warm both hands and heart.",
     "Price": 192.31,
-    "PictureUrl": "/images/products/mulan_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754870279/mulan_gloves_esoa1p.png",
     "Type": "Gloves",
     "Brand": "Han Warrior Gear",
     "QuantityInStock": 55
@@ -543,7 +543,7 @@
     "Name": "Aurora's Boots",
     "Description": "Strut through the snow like Aurora herself—these boots blend storybook magic with real-world warmth.",
     "Price": 88.7,
-    "PictureUrl": "/images/products/aurora_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867547/aurora_boots_wpp1pn.png",
     "Type": "Boots",
     "Brand": "Briar Rose Designs",
     "QuantityInStock": 38
@@ -552,7 +552,7 @@
     "Name": "Maleficent's Boots",
     "Description": "Channel Maleficent's unforgettable charm with winter boots that walk like a legend.",
     "Price": 21.83,
-    "PictureUrl": "/images/products/maleficent_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868033/maleficent_boots_dukx6r.png",
     "Type": "Boots",
     "Brand": "Briar Rose Designs",
     "QuantityInStock": 57
@@ -561,7 +561,7 @@
     "Name": "Maleficent's Hat",
     "Description": "More than just a hat—it’s a crown of winter wonder, inspired by Maleficent's flair.",
     "Price": 167.91,
-    "PictureUrl": "/images/products/maleficent_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868066/maleficent_hat_hxzbqx.png",
     "Type": "Hats",
     "Brand": "Briar Rose Designs",
     "QuantityInStock": 84
@@ -570,7 +570,7 @@
     "Name": "Maleficent's Board",
     "Description": "Hit the slopes with a board that echoes Maleficent's timeless tale of magic and mischief.",
     "Price": 299.87,
-    "PictureUrl": "/images/products/maleficent_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868019/maleficent_board_iggr4z.png",
     "Type": "Boards",
     "Brand": "Briar Rose Designs",
     "QuantityInStock": 20
@@ -579,7 +579,7 @@
     "Name": "Tarzan's Board",
     "Description": "Glide with the mythic energy of Tarzan—this board was made for epic journeys.",
     "Price": 73.97,
-    "PictureUrl": "/images/products/tarzan_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868414/tarzan_board_kuuyz0.png",
     "Type": "Boards",
     "Brand": "Jungle Swing",
     "QuantityInStock": 68
@@ -588,7 +588,7 @@
     "Name": "Meeko's Boots",
     "Description": "These aren't just boots—they're a tale of boldness and grace straight from Meeko's world.",
     "Price": 256.8,
-    "PictureUrl": "/images/products/meeko_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868098/meeko_boots_xjzldh.png",
     "Type": "Boots",
     "Brand": "Spirit of the Forest",
     "QuantityInStock": 100
@@ -597,7 +597,7 @@
     "Name": "Meeko's Hat",
     "Description": "A winter hat that feels like stepping into Meeko's chapter of the fairytale.",
     "Price": 20.89,
-    "PictureUrl": "/images/products/meeko_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868093/meeko_hat_bdudd0.png",
     "Type": "Hats",
     "Brand": "Spirit of the Forest",
     "QuantityInStock": 75
@@ -606,7 +606,7 @@
     "Name": "Meeko's Board",
     "Description": "Glide with the mythic energy of Meeko—this board was made for epic journeys.",
     "Price": 23.86,
-    "PictureUrl": "/images/products/meeko_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868080/meeko_board_fulyks.png",
     "Type": "Boards",
     "Brand": "Spirit of the Forest",
     "QuantityInStock": 74
@@ -615,7 +615,7 @@
     "Name": "Genie's Hat",
     "Description": "A winter hat that feels like stepping into Genie's chapter of the fairytale.",
     "Price": 295.51,
-    "PictureUrl": "/images/products/genie_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867785/genie_hat_lufzdc.png",
     "Type": "Hats",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 32
@@ -624,7 +624,7 @@
     "Name": "Jasmine's Boots",
     "Description": "Channel Jasmine's unforgettable charm with winter boots that walk like a legend.",
     "Price": 35.05,
-    "PictureUrl": "/images/products/jasmine_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867889/jasmine_boots_zqjz6p.png",
     "Type": "Boots",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 39
@@ -633,7 +633,7 @@
     "Name": "Jasmine's Gloves",
     "Description": "Elegance meets storybook mischief—these gloves reflect Jasmine's legendary spirit.",
     "Price": 72.68,
-    "PictureUrl": "/images/products/jasmine_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867920/jasmine_gloves_d2hdhg.png",
     "Type": "Gloves",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 100
@@ -642,7 +642,7 @@
     "Name": "Jasmine's Board",
     "Description": "Glide with the mythic energy of Jasmine—this board was made for epic journeys.",
     "Price": 184.37,
-    "PictureUrl": "/images/products/jasmine_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867924/jasmine_board_quxsqh.png",
     "Type": "Boards",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 38
@@ -651,7 +651,7 @@
     "Name": "Belle's Boots",
     "Description": "Strut through the snow like Belle herself—these boots blend storybook magic with real-world warmth.",
     "Price": 115.15,
-    "PictureUrl": "/images/products/belle_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867570/belle_boots_tw8bgz.png",
     "Type": "Boots",
     "Brand": "Enchanted Castle",
     "QuantityInStock": 88
@@ -660,7 +660,7 @@
     "Name": "Esmeralda's Hat",
     "Description": "More than just a hat—it’s a crown of winter wonder, inspired by Esmeralda's flair.",
     "Price": 289.13,
-    "PictureUrl": "/images/products/esmeralda_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867661/esmeralda_hat_qdavx2.png",
     "Type": "Hats",
     "Brand": "Court of Miracles",
     "QuantityInStock": 12
@@ -669,7 +669,7 @@
     "Name": "Jafar's Boots",
     "Description": "Channel Jafar's unforgettable charm with winter boots that walk like a legend.",
     "Price": 197.97,
-    "PictureUrl": "/images/products/jafar_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867845/jafar_boots_iv1zvr.png",
     "Type": "Boots",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 43
@@ -678,7 +678,7 @@
     "Name": "Iago's Boots",
     "Description": "Channel Iago's unforgettable charm with winter boots that walk like a legend.",
     "Price": 113.0,
-    "PictureUrl": "/images/products/iago_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867812/iago_boots_s0kf5t.png",
     "Type": "Boots",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 78
@@ -687,7 +687,7 @@
     "Name": "Iago's Gloves",
     "Description": "Elegance meets storybook mischief—these gloves reflect Iago's legendary spirit.",
     "Price": 45.08,
-    "PictureUrl": "/images/products/iago_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867823/iago_gloves_mnkcht.png",
     "Type": "Gloves",
     "Brand": "Agrabah Treasures",
     "QuantityInStock": 99
@@ -696,7 +696,7 @@
     "Name": "Ursula's Hat",
     "Description": "More than just a hat—it’s a crown of winter wonder, inspired by Ursula's flair.",
     "Price": 255.85,
-    "PictureUrl": "/images/products/ursula_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868520/ursula_hat_oo3sco.png",
     "Type": "Hats",
     "Brand": "Under the Sea Co.",
     "QuantityInStock": 16
@@ -705,7 +705,7 @@
     "Name": "Hades's Boots",
     "Description": "Strut through the snow like Hades herself—these boots blend storybook magic with real-world warmth.",
     "Price": 37.14,
-    "PictureUrl": "/images/products/hades_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867776/hades_boots_q23smx.png",
     "Type": "Boots",
     "Brand": "Mount Olympus Outfitters",
     "QuantityInStock": 52
@@ -714,7 +714,7 @@
     "Name": "Alice's Gloves",
     "Description": "Elegance meets storybook mischief—these gloves reflect Alice's legendary spirit.",
     "Price": 111.1,
-    "PictureUrl": "/images/products/alice_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867534/alice_gloves_bmua1y.png",
     "Type": "Gloves",
     "Brand": "Wonderland Curiosities",
     "QuantityInStock": 44
@@ -723,7 +723,7 @@
     "Name": "Alice's Hat",
     "Description": "A winter hat that feels like stepping into Alice's chapter of the fairytale.",
     "Price": 99.42,
-    "PictureUrl": "/images/products/alice_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867522/alice_hat_ohcjbe.png",
     "Type": "Hats",
     "Brand": "Wonderland Curiosities",
     "QuantityInStock": 63
@@ -732,7 +732,7 @@
     "Name": "Alice's Boots",
     "Description": "Strut through the snow like Alice herself—these boots blend storybook magic with real-world warmth.",
     "Price": 88.39,
-    "PictureUrl": "/images/products/alice_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867458/alice_boots_quj34v.png",
     "Type": "Boots",
     "Brand": "Wonderland Curiosities",
     "QuantityInStock": 56
@@ -741,7 +741,7 @@
     "Name": "Alice's Board",
     "Description": "Glide with the mythic energy of Alice—this board was made for epic journeys.",
     "Price": 120,
-    "PictureUrl": "/images/products/alice_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867442/alice_board_mt0bh8.png",
     "Type": "Boards",
     "Brand": "Wonderland Curiosities",
     "QuantityInStock": 19
@@ -750,7 +750,7 @@
     "Name": "Megara's Board",
     "Description": "Channel Megara's fierce independence with this striking winter board.",
     "Price": 189.99,
-    "PictureUrl": "/images/products/megara_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868110/megara_board_kbib0w.png",
     "Type": "Boards",
     "Brand": "Mount Olympus Outfitters",
     "QuantityInStock": 25
@@ -759,16 +759,16 @@
     "Name": "Megara's Boots",
     "Description": "Step boldly like Megara with these sleek winter boots in royal purple.",
     "Price": 142.5,
-    "PictureUrl": "/images/products/megara_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754871019/megara_boots_rzth0z.png",
     "Type": "Boots",
     "Brand": "Mount Olympus Outfitters",
     "QuantityInStock": 30
   },
   {
     "Name": "Megara's Hat",
-    "Description": "A confident and stylish winter hat inspired by Megara\u2019s iconic flair.",
+    "Description": "A confident and stylish winter hat inspired by Megara’s iconic flair.",
     "Price": 76.25,
-    "PictureUrl": "/images/products/megara_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754871043/megara_hat_epc8xz.png",
     "Type": "Hats",
     "Brand": "Mount Olympus Outfitters",
     "QuantityInStock": 18
@@ -777,16 +777,16 @@
     "Name": "Megara's Gloves",
     "Description": "These bold gloves echo Megara's spirited personality and romantic charm.",
     "Price": 64.0,
-    "PictureUrl": "/images/products/megara_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754871030/megara_gloves_spwxwd.png",
     "Type": "Gloves",
     "Brand": "Mount Olympus Outfitters",
     "QuantityInStock": 22
   },
   {
     "Name": "Slaanesh Boots",
-    "Description": "Stride with chaos\u2014Slaanesh boots blend elegance with wild winter fury.",
+    "Description": "Stride with chaos—Slaanesh boots blend elegance with wild winter fury.",
     "Price": 106.65,
-    "PictureUrl": "/images/products/slaanesh_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868410/slaanesh_boots_jjemjy.png",
     "Type": "Boots",
     "Brand": "Slaanesh Seductions",
     "QuantityInStock": 59
@@ -795,7 +795,7 @@
     "Name": "Slaanesh Gloves",
     "Description": "Embrace the chill with gloves imbued with Slaanesh's unholy charm.",
     "Price": 253.09,
-    "PictureUrl": "/images/products/slaanesh_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868437/slaanesh_gloves_mdsu2w.png",
     "Type": "Gloves",
     "Brand": "Slaanesh Seductions",
     "QuantityInStock": 72
@@ -804,7 +804,7 @@
     "Name": "Slaanesh Hat",
     "Description": "Top your look with a hat that channels Slaanesh's wintry power.",
     "Price": 76.51,
-    "PictureUrl": "/images/products/slaanesh_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868421/slaanesh_hat_egrjrw.png",
     "Type": "Hats",
     "Brand": "Slaanesh Seductions",
     "QuantityInStock": 50
@@ -813,16 +813,16 @@
     "Name": "Slaanesh Board",
     "Description": "Rule the slopes with a board forged in Slaanesh's domain.",
     "Price": 51.19,
-    "PictureUrl": "/images/products/slaanesh_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868405/slaanesh_board_wp4l9s.png",
     "Type": "Boards",
     "Brand": "Slaanesh Seductions",
     "QuantityInStock": 76
   },
   {
     "Name": "Khorne Boots",
-    "Description": "Stride with chaos\u2014Khorne boots blend elegance with wild winter fury.",
+    "Description": "Stride with chaos—Khorne boots blend elegance with wild winter fury.",
     "Price": 89.91,
-    "PictureUrl": "/images/products/khorne_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867952/khorne_boots_mqr54d.png",
     "Type": "Boots",
     "Brand": "Khorne Forge",
     "QuantityInStock": 23
@@ -831,7 +831,7 @@
     "Name": "Khorne Gloves",
     "Description": "Embrace the chill with gloves imbued with Khorne's unholy charm.",
     "Price": 261.91,
-    "PictureUrl": "/images/products/khorne_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867972/khorne_gloves_ofpc6n.png",
     "Type": "Gloves",
     "Brand": "Khorne Forge",
     "QuantityInStock": 24
@@ -840,7 +840,7 @@
     "Name": "Khorne Hat",
     "Description": "Top your look with a hat that channels Khorne's wintry power.",
     "Price": 66.77,
-    "PictureUrl": "/images/products/khorne_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867983/khorne_hat_ee0blq.png",
     "Type": "Hats",
     "Brand": "Khorne Forge",
     "QuantityInStock": 100
@@ -849,16 +849,16 @@
     "Name": "Khorne Board",
     "Description": "Rule the slopes with a board forged in Khorne's domain.",
     "Price": 70.04,
-    "PictureUrl": "/images/products/khorne_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754867944/khorne_board_rhoupp.png",
     "Type": "Boards",
     "Brand": "Khorne Forge",
     "QuantityInStock": 56
   },
   {
     "Name": "Nurglings Boots",
-    "Description": "Stride with chaos\u2014Nurglings boots blend elegance with wild winter fury.",
+    "Description": "Stride with chaos—Nurglings boots blend elegance with wild winter fury.",
     "Price": 260.07,
-    "PictureUrl": "/images/products/nurglings_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868287/nurglings_boots_m6xg6d.png",
     "Type": "Boots",
     "Brand": "Nurglings & Co.",
     "QuantityInStock": 37
@@ -867,7 +867,7 @@
     "Name": "Nurglings Gloves",
     "Description": "Embrace the chill with gloves imbued with Nurglings's unholy charm.",
     "Price": 183.65,
-    "PictureUrl": "/images/products/nurglings_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868288/nurglings_gloves_dtiov4.png",
     "Type": "Gloves",
     "Brand": "Nurglings & Co.",
     "QuantityInStock": 26
@@ -876,7 +876,7 @@
     "Name": "Nurglings Hat",
     "Description": "Top your look with a hat that channels Nurglings's wintry power.",
     "Price": 226.04,
-    "PictureUrl": "/images/products/nurglings_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868306/nurglings_hat_reckeu.png",
     "Type": "Hats",
     "Brand": "Nurglings & Co.",
     "QuantityInStock": 57
@@ -885,16 +885,16 @@
     "Name": "Nurglings Board",
     "Description": "Rule the slopes with a board forged in Nurglings's domain.",
     "Price": 283.68,
-    "PictureUrl": "/images/products/nurglings_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868232/nurglings_board_wlglqj.png",
     "Type": "Boards",
     "Brand": "Nurglings & Co.",
     "QuantityInStock": 36
   },
   {
     "Name": "Necrons Boots",
-    "Description": "Stride with chaos\u2014Necrons boots blend elegance with wild winter fury.",
+    "Description": "Stride with chaos—Necrons boots blend elegance with wild winter fury.",
     "Price": 238.74,
-    "PictureUrl": "/images/products/necrons_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868254/necrons_boots_yixgr1.png",
     "Type": "Boots",
     "Brand": "Dynasty of Necrons",
     "QuantityInStock": 61
@@ -903,7 +903,7 @@
     "Name": "Necrons Gloves",
     "Description": "Embrace the chill with gloves imbued with Necrons's unholy charm.",
     "Price": 146.86,
-    "PictureUrl": "/images/products/necrons_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868253/necrons_gloves_plvgcd.png",
     "Type": "Gloves",
     "Brand": "Dynasty of Necrons",
     "QuantityInStock": 96
@@ -912,7 +912,7 @@
     "Name": "Necrons Hat",
     "Description": "Top your look with a hat that channels Necrons's wintry power.",
     "Price": 220.03,
-    "PictureUrl": "/images/products/necrons_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868256/necrons_hat_g4mqpy.png",
     "Type": "Hats",
     "Brand": "Dynasty of Necrons",
     "QuantityInStock": 95
@@ -921,16 +921,16 @@
     "Name": "Necrons Board",
     "Description": "Rule the slopes with a board forged in Necrons's domain.",
     "Price": 216.06,
-    "PictureUrl": "/images/products/necrons_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868199/necrons_board_dgzv8f.png",
     "Type": "Boards",
     "Brand": "Dynasty of Necrons",
     "QuantityInStock": 18
   },
   {
     "Name": "Tyranids Boots",
-    "Description": "Stride with chaos\u2014Tyranids boots blend elegance with wild winter fury.",
+    "Description": "Stride with chaos—Tyranids boots blend elegance with wild winter fury.",
     "Price": 272.07,
-    "PictureUrl": "/images/products/tyranids_boots.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868485/tyranids_boots_vkp9hu.png",
     "Type": "Boots",
     "Brand": "Hive Tyranids Gear",
     "QuantityInStock": 56
@@ -939,7 +939,7 @@
     "Name": "Tyranids Gloves",
     "Description": "Embrace the chill with gloves imbued with Tyranids's unholy charm.",
     "Price": 189.84,
-    "PictureUrl": "/images/products/tyranids_gloves.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868495/tyranids_gloves_bh8k9a.png",
     "Type": "Gloves",
     "Brand": "Hive Tyranids Gear",
     "QuantityInStock": 70
@@ -948,7 +948,7 @@
     "Name": "Tyranids Hat",
     "Description": "Top your look with a hat that channels Tyranids's wintry power.",
     "Price": 208.8,
-    "PictureUrl": "/images/products/tyranids_hat.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868504/tyranids_hat_ts5ytu.png",
     "Type": "Hats",
     "Brand": "Hive Tyranids Gear",
     "QuantityInStock": 41
@@ -957,7 +957,7 @@
     "Name": "Tyranids Board",
     "Description": "Rule the slopes with a board forged in Tyranids's domain.",
     "Price": 143.66,
-    "PictureUrl": "/images/products/tyranids_board.png",
+    "PictureUrl": "https://res.cloudinary.com/dhtmbebsv/image/upload/f_auto,q_auto,dpr_auto/v1754868464/tyranids_board_rxspw7.png",
     "Type": "Boards",
     "Brand": "Hive Tyranids Gear",
     "QuantityInStock": 77
